@@ -1,0 +1,77 @@
+.heading2
+{
+    color:red;
+    font-style: italic;
+}
+
+/*Bgcolor of text and bold*/
+.bgclr
+{
+    
+    background-color: yellow;
+    font-weight: bold;
+}
+
+/*To delete text*/
+.dele
+{
+    text-decoration: line-through;
+}
+
+/*for underline and italic*/
+.under
+{
+    text-decoration: underline;
+    font-style: italic;
+}
+/*giving space between letters*/
+.spac
+{
+    letter-spacing: 3px;
+}
+/*<a>tag attributes*/
+.anc
+{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}.heading2
+{
+    color:red;
+    font-style: italic;
+}
+
+/*Bgcolor of text and bold*/
+.bgclr
+{
+    
+    background-color: yellow;
+    font-weight: bold;
+}
+
+/*To delete text*/
+.dele
+{
+    text-decoration: line-through;
+}
+
+/*for underline and italic*/
+.under
+{
+    text-decoration: underline;
+    font-style: italic;
+}
+/*giving space between letters*/
+.spac
+{
+    letter-spacing: 3px;
+}
+/*<a>tag attributes*/
+.anc
+{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
